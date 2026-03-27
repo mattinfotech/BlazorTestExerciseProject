@@ -8,6 +8,7 @@ This repository contains a minimal Blazor application for the reusable form comp
 - `Pages/Home.razor` - sample parent page demonstrating usage
 - `Models/UserModel.cs` - shared model with `DataAnnotations`
 - `wwwroot/app.css` - basic styling for layout and usability
+- `lib/bootstrap/dist/css/bootstrap.min.css` - is utilized as the primary framework to ensure consistent, responsive, and modern user interface styling.
 
 ## Requirements
 
